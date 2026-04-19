@@ -1,12 +1,12 @@
 public class TASK21wordEnds {
     public static void main(String[] args) {
-        System.out.println(wordEnds("abcXY123XYijk", "XY")); //c13i
-        System.out.println(wordEnds("XY123XY", "XY"));       //13
-        System.out.println(wordEnds("XY1XY", "XY"));         //11
+        System.out.println(TASK21wordEnds("abcXY123XYijk", "XY")); //c13i
+        System.out.println(TASK21wordEnds("XY123XY", "XY"));       //13
+        System.out.println(TASK21wordEnds("XY1XY", "XY"));         //11
 
     }
 
-    public static String wordEnds(String str, String word) {
+    public static String TASK21wordEnds(String str, String word) {
         StringBuilder result = new StringBuilder();
         int len = word.length();
 
