@@ -4,8 +4,6 @@ public class TASK20plusOut {
         System.out.println(plusOut("12xy34", "1"));          // 1+++++
         System.out.println(plusOut("12xy34xyabcxy", "xy"));  // ++xy++xy+++xy
 
-        // Zelda example
-        System.out.println(plusOut("Ze1ldaZelda123", "Zelda")); // +++++Zelda+++++
     }
 
     public static String plusOut(String str, String word) {
