@@ -1,0 +1,18 @@
+public class TASK10repeatEnd {
+    public static void main(String[] args) {
+        System.out.println(TASK10repeatEnd("Hello", 3));  // lllooo
+        System.out.println(TASK10repeatEnd("Java", 2));   // aava
+        System.out.println(TASK10repeatEnd("abc", 1));    // c
+    }
+
+    public static String TASK10repeatEnd(String str, int n) {
+        String end = str.substring(str.length() - n);
+        String result = "";
+
+        for (int i = 0; i < n; i++) {
+            result += end;
+        }
+
+        return result;
+    }
+}
