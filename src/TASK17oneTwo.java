@@ -2,7 +2,7 @@ public class TASK17oneTwo {
     public static void main(String[] args) {
         System.out.println(oneTwo("abc"));       // bca
         System.out.println(oneTwo("tca"));       // cat
-        System.out.println(oneTwo("tcagdo"));    //
+        System.out.println(oneTwo("tcagdo"));    //catdog
     }
 
     public static String oneTwo(String str) {
