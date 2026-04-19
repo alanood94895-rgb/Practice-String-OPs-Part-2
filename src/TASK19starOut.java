@@ -4,8 +4,7 @@ public class TASK19starOut {
         System.out.println(starOut("ab**cd"));    // ad
         System.out.println(starOut("sm*eilly"));  // silly
 
-        // Zelda example
-        System.out.println(starOut("Ze*lda"));    // Zda
+
     }
 
     public static String starOut(String str) {
