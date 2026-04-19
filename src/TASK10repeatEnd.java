@@ -1,7 +1,7 @@
 public class TASK10repeatEnd {
     public static void main(String[] args) {
-        System.out.println(TASK10repeatEnd("Hello", 3));  // lllooo
-        System.out.println(TASK10repeatEnd("Java", 2));   // aava
+        System.out.println(TASK10repeatEnd("Hello", 3));  // llollollo
+        System.out.println(TASK10repeatEnd("Hello", 2));   // lolo
         System.out.println(TASK10repeatEnd("abc", 1));    // c
     }
 
