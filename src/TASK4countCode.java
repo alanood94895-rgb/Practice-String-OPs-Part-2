@@ -2,7 +2,7 @@ public class TASK4countCode {
         public static void main (String[] args){
             System.out.println(TASK4countCode ("aaacodebbb")); // 1
             System.out.println(TASK4countCode ("codexxcode"));  // 2
-            System.out.println(TASK4countCode ("cozexxcope"));// 2
+            System.out.println(TASK4countCode ("cozexxcope"));//
 
         }
         public static int TASK4countCode(String str) {
