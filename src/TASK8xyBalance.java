@@ -1,8 +1,8 @@
 public class TASK8xyBalance {
     public static void main (String[] args){
-        System.out.println(TASK8xyBalance ("aaxbby"));
-        System.out.println(TASK8xyBalance ("aaxbb"));
-        System.out.println(TASK8xyBalance ("yaaxbb"));
+        System.out.println(TASK8xyBalance ("aaxbby"));  //TRUE
+        System.out.println(TASK8xyBalance ("aaxbb"));   // FALSE
+        System.out.println(TASK8xyBalance ("yaaxbb"));  //FALSE
 
     }
     public static boolean TASK8xyBalance(String str) {
