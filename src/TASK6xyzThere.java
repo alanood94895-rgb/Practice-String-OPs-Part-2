@@ -3,7 +3,7 @@ public class TASK6xyzThere {
             System.out.println(TASK6xyzThere("abcxyz"));       // TRUE
             System.out.println(TASK6xyzThere("abc.xyz"));      // FALSE
             System.out.println(TASK6xyzThere("xyz.abcxyz"));   // TRUE
-            System.out.println(TASK6xyzThere("abc.xyzxyz"));   // TRUE
+            System.out.println(TASK6xyzThere("abc.xyzxyz"));   //
         }
 
         public static boolean TASK6xyzThere(String str) {
