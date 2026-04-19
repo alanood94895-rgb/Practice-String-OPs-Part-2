@@ -1,8 +1,8 @@
 public class TASK14xyzMiddle {
     public static void main(String[] args) {
-        System.out.println(TASK14xyzMiddle("AAxyzBB"));   // true
-        System.out.println(TASK14xyzMiddle("AxyzBB"));    // true
-        System.out.println(TASK14xyzMiddle("AxyzBBB"));   // false
+        System.out.println(TASK14xyzMiddle("AAxyzBB"));   // TRUE
+        System.out.println(TASK14xyzMiddle("AxyzBB"));    // TRUE
+        System.out.println(TASK14xyzMiddle("AxyzBBB"));   // FALSE
     }
 
     public static boolean TASK14xyzMiddle(String str) {
