@@ -3,7 +3,6 @@ public class TASK18zipZap {
             System.out.println(zipZap("zipXzap"));     // zpXzp
             System.out.println(zipZap("zopzop"));      // zpzp
             System.out.println(zipZap("zzzopzop"));    // zzzpzp
-            System.out.println(zipZap("Zeldazipzap")); // Zeldazpzp
         }
 
         public static String zipZap(String str) {
