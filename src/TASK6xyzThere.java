@@ -2,7 +2,7 @@ public class TASK6xyzThere {
         public static void main(String[] args) {
             System.out.println(TASK6xyzThere("abcxyz"));       // TRUE
             System.out.println(TASK6xyzThere("abc.xyz"));      // FALSE
-            System.out.println(TASK6xyzThere("xyz.abcxyz"));   // TRUE
+            System.out.println(TASK6xyzThere("xyz.abcxyz"));   //
             System.out.println(TASK6xyzThere("abc.xyzxyz"));   //
         }
 
