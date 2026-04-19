@@ -1,8 +1,8 @@
 public class TASK19starOut {
     public static void main(String[] args) {
-        System.out.println(starOut("ab*cd"));     // ad
-        System.out.println(starOut("ab**cd"));    // ad
-        System.out.println(starOut("sm*eilly"));  // silly
+        System.out.println(starOut("ab*cd"));     //
+        System.out.println(starOut("ab**cd"));    //
+        System.out.println(starOut("sm*eilly"));  //
 
 
     }
