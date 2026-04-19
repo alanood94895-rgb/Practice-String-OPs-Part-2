@@ -1,7 +1,7 @@
 public class TASK14xyzMiddle {
     public static void main(String[] args) {
         System.out.println(TASK14xyzMiddle("AAxyzBB"));   // True
-        System.out.println(TASK14xyzMiddle("AxyzBB"));    //
+        System.out.println(TASK14xyzMiddle("AxyzBB"));    // True
         System.out.println(TASK14xyzMiddle("AxyzBBB"));   //
     }
 
