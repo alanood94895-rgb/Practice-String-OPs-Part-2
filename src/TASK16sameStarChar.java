@@ -1,12 +1,11 @@
 public class TASK16sameStarChar {
     public static void main(String[] args) {
-        System.out.println(sameStarChar("xy*yzz"));   // true
-        System.out.println(sameStarChar("xy*zzz"));   // false
-        System.out.println(sameStarChar("*xa*az"));   // true
-        System.out.println(sameStarChar("a*b*a"));    // true
+        System.out.println(TASK16sameStarChar("xy*yzz"));   // true
+        System.out.println(TASK16sameStarChar("xy*zzz"));   // false
+        System.out.println(TASK16sameStarChar("*xa*az"));   // true
     }
 
-    public static boolean sameStarChar(String str) {
+    public static boolean TASK16sameStarChar(String str) {
 
         for (int i = 0; i < str.length(); i++) {
             if (str.charAt(i) == '*') {
