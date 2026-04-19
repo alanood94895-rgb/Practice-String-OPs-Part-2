@@ -1,8 +1,8 @@
 public class TASK16sameStarChar {
     public static void main(String[] args) {
-        System.out.println(TASK16sameStarChar("xy*yzz"));   // true
-        System.out.println(TASK16sameStarChar("xy*zzz"));   // false
-        System.out.println(TASK16sameStarChar("*xa*az"));   // true
+        System.out.println(TASK16sameStarChar("xy*yzz"));   // True
+        System.out.println(TASK16sameStarChar("xy*zzz"));   // False
+        System.out.println(TASK16sameStarChar("*xa*az"));   // True
     }
 
     public static boolean TASK16sameStarChar(String str) {
