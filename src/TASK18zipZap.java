@@ -15,7 +15,6 @@ public class TASK18zipZap {
                         str.charAt(i) == 'z' &&
                         str.charAt(i + 2) == 'p') {
 
-                    // skip middle character
                     result += "zp";
                     i += 2;
                 } else {
