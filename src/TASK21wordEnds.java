@@ -2,7 +2,7 @@ public class TASK21wordEnds {
     public static void main(String[] args) {
         System.out.println(wordEnds("abcXY123XYijk", "XY")); //c13i
         System.out.println(wordEnds("XY123XY", "XY"));       //13
-        System.out.println(wordEnds("XY1XY", "XY"));         //
+        System.out.println(wordEnds("XY1XY", "XY"));         //11
 
     }
 
