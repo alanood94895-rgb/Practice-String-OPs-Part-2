@@ -10,7 +10,6 @@ public class TASK16sameStarChar {
         for (int i = 0; i < str.length(); i++) {
             if (str.charAt(i) == '*') {
 
-                // Check boundaries (must have left and right chars)
                 if (i == 0 || i == str.length() - 1) {
                     return false;
                 }
