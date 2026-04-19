@@ -1,12 +1,12 @@
 public class TASK20plusOut {
     public static void main(String[] args) {
-        System.out.println(plusOut("12xy34", "xy"));         // ++xy++
-        System.out.println(plusOut("12xy34", "1"));          // 1+++++
-        System.out.println(plusOut("12xy34xyabcxy", "xy"));  // ++xy++xy+++xy
+        System.out.println(TASK20plusOut("12xy34", "xy"));         // ++xy++
+        System.out.println(TASK20plusOut("12xy34", "1"));          // 1+++++
+        System.out.println(TASK20plusOut("12xy34xyabcxy", "xy"));  // ++xy++xy+++xy
 
     }
 
-    public static String plusOut(String str, String word) {
+    public static String TASK20plusOut(String str, String word) {
         StringBuilder result = new StringBuilder();
 
         for (int i = 0; i < str.length(); ) {
