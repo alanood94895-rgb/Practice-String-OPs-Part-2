@@ -1,6 +1,6 @@
 public class TASK3catDog {
     public static void main (String[] args){
-        System.out.println( TASK3catDog("catdog"));
+        System.out.println( TASK3catDog("catdog")); //True
         System.out.println(TASK3catDog ("catcat"));
         System.out.println(TASK3catDog ("1cat1cadodog"));
 
