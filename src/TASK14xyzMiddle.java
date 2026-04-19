@@ -2,7 +2,7 @@ public class TASK14xyzMiddle {
     public static void main(String[] args) {
         System.out.println(TASK14xyzMiddle("AAxyzBB"));   //
         System.out.println(TASK14xyzMiddle("AxyzBB"));    //
-        System.out.println(TASK14xyzMiddle("AxyzBBB"));   // FALSE
+        System.out.println(TASK14xyzMiddle("AxyzBBB"));   //
     }
 
     public static boolean TASK14xyzMiddle(String str) {
