@@ -1,8 +1,8 @@
 public class TASK18zipZap {
         public static void main(String[] args) {
-            System.out.println(zipZap("zipXzap"));     // zpXzp
-            System.out.println(zipZap("zopzop"));      // zpzp
-            System.out.println(zipZap("zzzopzop"));    // zzzpzp
+            System.out.println(zipZap("zipXzap"));     //
+            System.out.println(zipZap("zopzop"));      //
+            System.out.println(zipZap("zzzopzop"));    //
         }
 
         public static String zipZap(String str) {
