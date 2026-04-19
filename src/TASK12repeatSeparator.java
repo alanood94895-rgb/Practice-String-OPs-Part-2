@@ -2,7 +2,7 @@ public class TASK12repeatSeparator {
     public static void main(String[] args) {
 
         System.out.println(TASK12repeatSeparator("Word", "X", 3));   // WordXWordXWord
-        System.out.println(TASK12repeatSeparator("This", "And", 2));  // ThisAndThis
+        System.out.println(TASK12repeatSeparator("This", "And", 2));  //
         System.out.println(TASK12repeatSeparator("This", "And", 1));  //
     }
 
