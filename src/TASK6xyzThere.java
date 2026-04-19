@@ -11,7 +11,6 @@ public class TASK6xyzThere {
             for (int i = 0; i < str.length() - 2; i++) {
                 if (str.substring(i, i + 3).equals("xyz")) {
 
-                    // If it's at start OR NOT preceded by '.'
                     if (i == 0 || str.charAt(i - 1) != '.') {
                         return true;
                     }
