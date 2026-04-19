@@ -2,7 +2,7 @@ public class TASK3catDog {
     public static void main (String[] args){
         System.out.println( TASK3catDog("catdog")); //True
         System.out.println(TASK3catDog ("catcat"));//False
-        System.out.println(TASK3catDog ("1cat1cadodog"));
+        System.out.println(TASK3catDog ("1cat1cadodog"));//True
 
     }
     public static boolean TASK3catDog(String str) {
