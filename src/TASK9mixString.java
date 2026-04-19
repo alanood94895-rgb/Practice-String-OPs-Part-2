@@ -2,7 +2,7 @@ public class TASK9mixString {
         public static void main(String[] args) {
             System.out.println(TASK9mixString("abc", "xyz"));     // axbycz
             System.out.println(TASK9mixString("Hi", "There"));    // HTihere
-            System.out.println(TASK9mixString("a", "pqrs"));      // apqrs
+            System.out.println(TASK9mixString("a", "bcd"));      // abcd
         }
 
         public static String TASK9mixString(String a, String b) {
