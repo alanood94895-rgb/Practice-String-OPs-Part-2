@@ -2,7 +2,7 @@ public class TASK18zipZap {
         public static void main(String[] args) {
             System.out.println(zipZap("zipXzap"));     //zpXzp
             System.out.println(zipZap("zopzop"));      //zpzp
-            System.out.println(zipZap("zzzopzop"));    //
+            System.out.println(zipZap("zzzopzop"));    //zzzpzp
         }
 
         public static String zipZap(String str) {
