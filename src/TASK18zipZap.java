@@ -17,7 +17,7 @@ public class TASK18zipZap {
 
                     // skip middle character
                     result += "zp";
-                    i += 2; // jump past pattern
+                    i += 2;
                 } else {
                     result += str.charAt(i);
                 }
