@@ -4,8 +4,6 @@ public class TASK21wordEnds {
         System.out.println(wordEnds("XY123XY", "XY"));       // 13
         System.out.println(wordEnds("XY1XY", "XY"));         // 11
 
-        // Zelda example
-        System.out.println(wordEnds("aZelda1Zeldab", "Zelda")); // a1b
     }
 
     public static String wordEnds(String str, String word) {
