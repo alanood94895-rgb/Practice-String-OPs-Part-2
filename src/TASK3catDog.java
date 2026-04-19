@@ -1,11 +1,11 @@
-public class TASK3 {
+public class TASK3catDog {
     public static void main (String[] args){
-        System.out.println( TASK3("catdog"));
-        System.out.println(TASK3 ("catcat"));
-        System.out.println(TASK3 ("1cat1cadodog"));
+        System.out.println( TASK3catDog("catdog"));
+        System.out.println(TASK3catDog ("catcat"));
+        System.out.println(TASK3catDog ("1cat1cadodog"));
 
     }
-    public static boolean TASK3(String str) {
+    public static boolean TASK3catDog(String str) {
         int catCount = 0;
         int dogCount = 0;
 
