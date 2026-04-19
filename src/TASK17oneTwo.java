@@ -11,7 +11,6 @@ public class TASK17oneTwo {
         for (int i = 0; i < str.length() - 2; i += 3) {
             String group = str.substring(i, i + 3);
 
-            // move first character to the end
             result += group.substring(1) + group.charAt(0);
         }
 
