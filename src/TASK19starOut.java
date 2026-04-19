@@ -1,13 +1,13 @@
 public class TASK19starOut {
     public static void main(String[] args) {
-        System.out.println(starOut("ab*cd"));     //ad
-        System.out.println(starOut("ab**cd"));    //ad
-        System.out.println(starOut("sm*eilly"));  //silly
+        System.out.println(TASK19starOut("ab*cd"));     //ad
+        System.out.println(TASK19starOut("ab**cd"));    //ad
+        System.out.println(TASK19starOut("sm*eilly"));  //silly
 
 
     }
 
-    public static String starOut(String str) {
+    public static String TASK19starOut(String str) {
         StringBuilder result = new StringBuilder();
 
         for (int i = 0; i < str.length(); i++) {
