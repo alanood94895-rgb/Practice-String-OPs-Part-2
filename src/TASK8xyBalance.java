@@ -2,7 +2,7 @@ public class TASK8xyBalance {
     public static void main (String[] args){
         System.out.println(TASK8xyBalance ("aaxbby"));  //True
         System.out.println(TASK8xyBalance ("aaxbb"));   //False
-        System.out.println(TASK8xyBalance ("yaaxbb"));  //
+        System.out.println(TASK8xyBalance ("yaaxbb"));  //False
 
     }
     public static boolean TASK8xyBalance(String str) {
