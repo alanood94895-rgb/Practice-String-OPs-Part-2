@@ -1,9 +1,9 @@
-public class TASK1doubleChar {
+public class doubleChar {
     public static void main (String[] args){
-        System.out.println(TASK1doubleChar("abc"));     // aabbcc
+        System.out.println(doubleChar("abc"));     // aabbcc
     }
 
-    public static String TASK1doubleChar (String str) {
+    public static String doubleChar (String str) {
         String result = "";
 
         for (int i = 0; i < str.length(); i++) {
