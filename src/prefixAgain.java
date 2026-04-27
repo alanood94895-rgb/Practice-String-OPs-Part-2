@@ -1,4 +1,4 @@
-public class TASK13prefixAgain {
+public class prefixAgain {
     public static void main(String[] args) {
         System.out.println(TASK13prefixAgain("abXYabc", 1)); // True
         System.out.println(TASK13prefixAgain("abXYabc", 2)); // True
