@@ -1,4 +1,4 @@
-public class TASK11repeatFront {
+public class repeatFront {
     public static void main(String[] args) {
         System.out.println(TASK11repeatFront("Chocolate", 4)); // ChocChoChC
         System.out.println(TASK11repeatFront("Chocolate", 3)); //"ChoChC
