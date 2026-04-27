@@ -1,4 +1,4 @@
-public class TASK7bobThere {
+public class bobThere {
     public static void main (Integer[] args){
         System.out.println(TASK7bobThere ("abcbob"));//TRUE
         System.out.println(TASK7bobThere ("b9b"));//TRUE
