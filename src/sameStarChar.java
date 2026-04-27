@@ -1,4 +1,4 @@
-public class TASK16sameStarChar {
+public class sameStarChar {
     public static void main(String[] args) {
         System.out.println(TASK16sameStarChar("xy*yzz"));   // True
         System.out.println(TASK16sameStarChar("xy*zzz"));   // False
