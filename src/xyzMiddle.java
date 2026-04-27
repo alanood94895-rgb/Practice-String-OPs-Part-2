@@ -1,4 +1,4 @@
-public class TASK14xyzMiddle {
+public class xyzMiddle {
     public static void main(String[] args) {
         System.out.println(TASK14xyzMiddle("AAxyzBB"));   // True
         System.out.println(TASK14xyzMiddle("AxyzBB"));    // True
