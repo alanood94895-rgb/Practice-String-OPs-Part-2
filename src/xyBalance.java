@@ -1,4 +1,4 @@
-public class TASK8xyBalance {
+public class xyBalance {
     public static void main (String[] args){
         System.out.println(TASK8xyBalance ("aaxbby"));  //True
         System.out.println(TASK8xyBalance ("aaxbb"));   //False
