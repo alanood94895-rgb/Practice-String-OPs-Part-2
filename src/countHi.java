@@ -1,4 +1,4 @@
-public class TASK2countHi {
+public class countHi {
     public static void main(String[] args) {
         System.out.println(TASK2countHi ("abc hi ho")); //1
         System.out.println(TASK2countHi("ABChi hi"));  //2
