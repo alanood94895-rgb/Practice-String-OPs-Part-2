@@ -1,4 +1,4 @@
-public class TASK21wordEnds {
+public class wordEnds {
     public static void main(String[] args) {
         System.out.println(TASK21wordEnds("abcXY123XYijk", "XY")); //c13i
         System.out.println(TASK21wordEnds("XY123XY", "XY"));       //13
