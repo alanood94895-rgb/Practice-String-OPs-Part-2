@@ -1,4 +1,4 @@
-public class TASK20plusOut {
+public class plusOut {
     public static void main(String[] args) {
         System.out.println(TASK20plusOut("12xy34", "xy"));         // ++xy++
         System.out.println(TASK20plusOut("12xy34", "1"));          // 1+++++
