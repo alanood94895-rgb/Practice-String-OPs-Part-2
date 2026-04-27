@@ -1,4 +1,4 @@
-public class TASK5endOther {
+public class endOther {
     public static void main(String[] args) {
         System.out.println(TASK5endOther("Hiabc", "abc"));     //True
         System.out.println(TASK5endOther("AbC", "HiaBc"));     //True
