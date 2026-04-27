@@ -1,4 +1,4 @@
-public class TASK15getSandwich {
+public class getSandwich {
     public static void main(String[] args) {
         System.out.println(TASK15getSandwich("breadjambread"));        // jam
         System.out.println(TASK15getSandwich("xxbreadjambreadyy"));    // jam
