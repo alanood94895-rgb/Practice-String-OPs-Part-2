@@ -1,4 +1,4 @@
-public class TASK10repeatEnd {
+public class repeatEnd {
     public static void main(String[] args) {
         System.out.println(TASK10repeatEnd("Hello", 3));  // llollollo
         System.out.println(TASK10repeatEnd("Hello", 2));   // lolo
