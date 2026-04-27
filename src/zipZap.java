@@ -1,4 +1,4 @@
-public class TASK18zipZap {
+public class zipZap {
         public static void main(String[] args) {
             System.out.println(zipZap("zipXzap"));     //zpXzp
             System.out.println(zipZap("zopzop"));      //zpzp
